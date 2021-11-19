@@ -22,8 +22,8 @@ let songs = [
     { songName: "Na Jaana - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/7.jpg" },
     { songName: "llove the way you lie", filePath: "songs/3.mp3", coverPath: "covers/8.jpg" },
     { songName: "fault in our stars", filePath: "songs/3.mp3", coverPath: "covers/9.jpg" },
-    { songName: "Om shanti hi", filePath: "songs/2.mp3", coverPath: "covers/10.jpg" },
-]
+//     { songName: "Om shanti hi", filePath: "songs/2.mp3", coverPath: "covers/10.jpg" },
+ ]
 
 // forEachMethod on array
 
